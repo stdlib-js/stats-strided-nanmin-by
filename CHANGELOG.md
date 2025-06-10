@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ffc393b`](https://github.com/stdlib-js/stdlib/commit/ffc393ba0e5270509bc47ebd5350ae77c4a1ef7f) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`45b78a6`](https://github.com/stdlib-js/stdlib/commit/45b78a6d8bd93ee68062f20971e88a70b8ec0352) - **feat:** add `stats/strided/nanmin-by` _(by Gururaj Gurram)_
 
 </details>
